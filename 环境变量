@@ -1,7 +1,0 @@
- /home/wangkun/anaconda3
-#Anaconda
-export PATH=$PATH:/home/wangkun/anaconda3/bin
-
-/etc/vim/vimrc
-/etc/vimrc
-cp /etc/vimrc ~/.vimrc
